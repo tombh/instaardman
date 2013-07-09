@@ -1,0 +1,634 @@
+[
+  {
+    "artist": "Nick Park",
+    "location": "Bristol City Museum & Art Gallery",
+    "name": "Newshound",
+    "no": "1",
+    "coords": [
+      51.44247142599999,
+      -2.5744091069999997
+    ]
+  },
+  {
+    "artist": "Dale Evans",
+    "location": "Bristol City Museum & Art Gallery",
+    "name": "TutanGromit",
+    "no": "2",
+    "coords": [
+      51.45891674199999,
+      -2.608222340999999
+    ]
+  },
+  {
+    "artist": "David Inshaw",
+    "location": "RWA",
+    "name": "Bushed",
+    "no": "3",
+    "coords": [
+      51.45521539700001,
+      -2.6257315839999995
+    ]
+  },
+  {
+    "artist": "Laura Cramer",
+    "location": "Elton Road",
+    "name": "Vincent van Gromit",
+    "no": "4"
+  },
+  {
+    "artist": "Julie Vernon",
+    "location": "Victoria Rooms",
+    "name": "Golden Gromit",
+    "no": "5",
+    "coords": [
+      51.45800000000001,
+      -2.609333333000001
+    ]
+  },
+  {
+    "artist": "Ian Marlow",
+    "location": "St George’s",
+    "name": "Sir Gromit of Bristol",
+    "no": "6"
+  },
+  {
+    "artist": "Joanna Lumley",
+    "location": "College Green",
+    "name": "Poetry in Motion",
+    "no": "7"
+  },
+  {
+    "artist": "Martin Handford",
+    "location": "Bristol Marriott Royal",
+    "name": "Where’s Wallace?",
+    "no": "8",
+    "coords": [
+      51.472409237,
+      -2.615604568
+    ]
+  },
+  {
+    "artist": "Axel Scheffler",
+    "location": "Bristol Central Library",
+    "name": "The Grommalo",
+    "no": "9"
+  },
+  {
+    "artist": "Dan Shearn",
+    "location": "At-Bristol",
+    "name": "Steam Dog",
+    "no": "10",
+    "coords": [
+      51.455206260999994,
+      -2.6257776000000006
+    ]
+  },
+  {
+    "artist": "Ignition DG",
+    "location": "Millennium Square",
+    "name": "Astro Dog",
+    "no": "11",
+    "coords": [
+      51.455181013000015,
+      -2.6257296050000005
+    ]
+  },
+  {
+    "artist": "Jeremy Wade",
+    "location": "Bristol Aquarium",
+    "name": "Fish Tales",
+    "no": "12"
+  },
+  {
+    "artist": "Harry Hill",
+    "location": "Tourist Information Centre",
+    "name": "A Close Shave",
+    "no": "13"
+  },
+  {
+    "artist": "Peter Lord",
+    "location": "Cascade Steps",
+    "name": "Salty Sea Dog",
+    "no": "14"
+  },
+  {
+    "artist": "Tom Deams",
+    "location": "Subway Harbourside",
+    "name": "Hero",
+    "no": "15",
+    "coords": [
+      51.452962354,
+      -2.624377005
+    ]
+  },
+  {
+    "artist": "Leigh Flurry",
+    "location": "Queen Square",
+    "name": "Bark at Ee",
+    "no": "16"
+  },
+  {
+    "artist": "Chris Taylor",
+    "location": "Thunderbolt Square",
+    "name": "Groscar",
+    "no": "17",
+    "coords": [
+      51.45276365,
+      -2.6244557019999997
+    ]
+  },
+  {
+    "artist": "Philip Treacy",
+    "location": "Bristol Old Vic",
+    "name": "Butterfly",
+    "no": "18",
+    "coords": [
+      51.452836612999995,
+      -2.624525679
+    ]
+  },
+  {
+    "artist": "Stephen McKay",
+    "location": "King Street",
+    "name": "The King",
+    "no": "19",
+    "coords": [
+      51.452887532999995,
+      -2.624444375
+    ]
+  },
+  {
+    "artist": "Giuliano Carapia",
+    "location": "Spyglass",
+    "name": "Carosello",
+    "no": "20"
+  },
+  {
+    "artist": "Trevor Baylis",
+    "location": "Redcliff Street",
+    "name": "What a Wind Up!",
+    "no": "21"
+  },
+  {
+    "artist": "Martin Band",
+    "location": "Hargreaves Lansdown, Anchor Road",
+    "name": "Jack",
+    "no": "22",
+    "coords": [
+      51.458494555,
+      -2.585428477
+    ]
+  },
+  {
+    "artist": "Sarah Jane Richards [with music by Jools Holland]",
+    "location": "Colston Hall",
+    "name": "Bumble Boogie",
+    "no": "23"
+  },
+  {
+    "artist": "Quentin Blake",
+    "location": "The Art of Gromit Unleashed shop, Upper Maudlin Street",
+    "name": "Gizmo",
+    "no": "24",
+    "coords": [
+      51.484649809000004,
+      -2.4936992799999995
+    ]
+  },
+  {
+    "artist": "Katy Christianson",
+    "location": "Hotel Du Vin, Lewins Mead",
+    "name": "Canis Major",
+    "no": "25"
+  },
+  {
+    "artist": "Joseph Dunmore",
+    "location": "Stanfords, Corn Street",
+    "name": "Nezahualcoyotl",
+    "no": "26",
+    "coords": [
+      51.454108,
+      -2.5953250000000008
+    ]
+  },
+  {
+    "artist": "Mark Titchner",
+    "location": "St Nicholas Market",
+    "name": "Why Dog? Why?",
+    "no": "27"
+  },
+  {
+    "artist": "Hannah Cumming",
+    "location": "Castle Park",
+    "name": "Collarfull",
+    "no": "28",
+    "coords": [
+      51.489268300000006,
+      -2.504362
+    ]
+  },
+  {
+    "artist": "Huncan Daskell",
+    "location": "The Galleries",
+    "name": "Gromitasaurus",
+    "no": "29",
+    "coords": [
+      51.45669444,
+      -2.590026855
+    ]
+  },
+  {
+    "artist": "Dan Collings",
+    "location": "Broadmead",
+    "name": "Malago",
+    "no": "30",
+    "coords": [
+      51.45616666699999,
+      -2.6053333329999995
+    ]
+  },
+  {
+    "artist": "Paul Smith",
+    "location": "Quakers Friars",
+    "name": "Lancelot",
+    "no": "31",
+    "coords": [
+      51.45726267900001,
+      -2.5875592230000004
+    ]
+  },
+  {
+    "artist": "Cheba",
+    "location": "Harvey Nichols",
+    "name": "Grosmos",
+    "no": "32",
+    "coords": [
+      51.457169087,
+      -2.586336136000001
+    ]
+  },
+  {
+    "artist": "Pixar",
+    "location": "Showcase Cinema de Lux, Cabot Circus",
+    "name": "Gromit Lightyear",
+    "no": "33",
+    "coords": [
+      51.458833333,
+      -2.5853333329999995
+    ]
+  },
+  {
+    "artist": "Simon Tofield",
+    "location": "Cabot Circus",
+    "name": "Doodles",
+    "no": "34",
+    "coords": [
+      51.45666666700001,
+      -2.604999999999999
+    ]
+  },
+  {
+    "artist": "The Beano",
+    "location": "Bristol Marriott Hotel City Centre",
+    "name": "Gnashional Gromit",
+    "no": "35"
+  },
+  {
+    "artist": "Andy O’Rourke",
+    "location": "Creative Common",
+    "name": "A Grand Day Out",
+    "no": "36"
+  },
+  {
+    "artist": "Natalie Guy",
+    "location": "Bristol Temple Meads",
+    "name": "May Contain Nuts (& Bolts)",
+    "no": "37"
+  },
+  {
+    "artist": "Tim Miness",
+    "location": "Bristol Temple Meads",
+    "name": "Isambark Kingdog Brunel",
+    "no": "38"
+  },
+  {
+    "artist": "Gavin Strange",
+    "location": "Aardman Animations, Gas Ferry Road",
+    "name": "Stat’s the way to do it, Lad!",
+    "no": "39"
+  },
+  {
+    "artist": "Carys Ink",
+    "location": "DoubleTree by Hilton Bristol City Centre",
+    "name": "Blazing Saddles",
+    "no": "40",
+    "coords": [
+      51.4529466,
+      -2.5886992000000006
+    ]
+  },
+  {
+    "artist": "Paula Bowles",
+    "location": "St Mary Redcliffe",
+    "name": "Bunty",
+    "no": "41",
+    "coords": [
+      51.455103335000004,
+      -2.5919151309999995
+    ]
+  },
+  {
+    "artist": "Gerald Scarfe",
+    "location": "M Shed",
+    "name": "Watch Out Gromit!",
+    "no": "42"
+  },
+  {
+    "artist": "The Royal Mint",
+    "location": "M Shed",
+    "name": "National Treasure",
+    "no": "43"
+  },
+  {
+    "artist": "One Red Shoe",
+    "location": "The Matthew",
+    "name": "NewFoundLand",
+    "no": "44"
+  },
+  {
+    "artist": "Thomas Dowdeswell",
+    "location": "ss Great Britain",
+    "name": "Being Gromit Malkovich",
+    "no": "45"
+  },
+  {
+    "artist": "Simon Tozer",
+    "location": "The Pumphouse",
+    "name": "Gromberry",
+    "no": "46",
+    "coords": [
+      53.196666717,
+      -2.8861665720000005
+    ]
+  },
+  {
+    "artist": "Emily Golden",
+    "location": "Clifton Hill",
+    "name": "Patch",
+    "no": "47",
+    "coords": [
+      51.46208046900001,
+      -2.508348059
+    ]
+  },
+  {
+    "artist": "Richard ‘Golly’ Starzak",
+    "location": "The Mall Gardens",
+    "name": "Sheepdog",
+    "no": "48"
+  },
+  {
+    "artist": "Ros Franklin",
+    "location": "Whiteladies Road",
+    "name": "Dog Rose",
+    "no": "49",
+    "coords": [
+      51.465166667000005,
+      -2.6103333329999994
+    ]
+  },
+  {
+    "artist": "Celia Birtwell",
+    "location": "Redgrave Theatre",
+    "name": "Sugar Plum",
+    "no": "50",
+    "coords": [
+      51.46033333300001,
+      -2.6223333330000003
+    ]
+  },
+  {
+    "artist": "Vivi Cuevas",
+    "location": "Bristol Zoo",
+    "name": "A Mandrill’s Best Friend",
+    "no": "51"
+  },
+  {
+    "artist": "Donough O’Malley",
+    "location": "Brunel Mile (off Anchor Road)",
+    "name": "Gromit-o-Matic",
+    "no": "52"
+  },
+  {
+    "artist": "Sarah Matthews",
+    "location": "Sion Hill, Clifton",
+    "name": "Ship Shape & Bristol Fashion",
+    "no": "53"
+  },
+  {
+    "artist": "Lindsay McBirnie",
+    "location": "Avon Gorge Hotel",
+    "name": "Fiesta",
+    "no": "54",
+    "coords": [
+      45.341350687,
+      -75.787407238
+    ]
+  },
+  {
+    "artist": "Rosie Ashforth",
+    "location": "Ashton Court",
+    "name": "Grant’s Gromit",
+    "no": "55"
+  },
+  {
+    "artist": "off Coronation Road",
+    "location": "Riverside Garden Centre, Clift House Road (off Coronation Road)",
+    "name": "Creature Comforts",
+    "no": "56"
+  },
+  {
+    "artist": "Nia Samuel-Johnson",
+    "location": "North Street",
+    "name": "Paisley",
+    "no": "57",
+    "coords": [
+      51.45866666700001,
+      -2.585166667
+    ]
+  },
+  {
+    "artist": "Carys Ink",
+    "location": "Windmill Hill City Farm",
+    "name": "Grrrrromit",
+    "no": "58"
+  },
+  {
+    "artist": "Monster Riot",
+    "location": "Arnos Vale Cemetery",
+    "name": "Hullaballoon",
+    "no": "59"
+  },
+  {
+    "artist": "Ignition DG",
+    "location": "Just off Lawrence Hill roundabout",
+    "name": "Lodekka",
+    "no": "60",
+    "coords": [
+      51.461996357,
+      -2.579910317
+    ]
+  },
+  {
+    "artist": "Raymond Briggs",
+    "location": "J3 Library",
+    "name": "Snow Gromit",
+    "no": "61"
+  },
+  {
+    "artist": "Dave Bain",
+    "location": "Gloucester Road",
+    "name": "Feathers",
+    "no": "62",
+    "coords": [
+      51.46744918,
+      -2.59143971
+    ]
+  },
+  {
+    "artist": "Lisa Hassell",
+    "location": "Gloucestershire County Cricket Club",
+    "name": "Poochadelic",
+    "no": "63",
+    "coords": [
+      51.477333333000004,
+      -2.585833333
+    ]
+  },
+  {
+    "artist": "Emily Ketteringham",
+    "location": "The Downs",
+    "name": "Blossom",
+    "no": "64",
+    "coords": [
+      51.47229299999999,
+      -2.619356
+    ]
+  },
+  {
+    "artist": "Inkie",
+    "location": "Arnolfini",
+    "name": "Zodiac",
+    "no": "65",
+    "coords": [
+      51.455203620999995,
+      -2.625654805
+    ]
+  },
+  {
+    "artist": "Peter Blake",
+    "location": "Arnolfini",
+    "name": "Hound Dog",
+    "no": "66",
+    "coords": [
+      51.455222648,
+      -2.625782043
+    ]
+  },
+  {
+    "artist": "Filthy Luker",
+    "location": "The Downs",
+    "name": "It’s Kraken, Gromit!",
+    "no": "67"
+  },
+  {
+    "artist": "Laura Cramer",
+    "location": "Henleaze Road ",
+    "name": "Five a Day Dog",
+    "no": "68"
+  },
+  {
+    "artist": "Richard Williams",
+    "location": "Fountain Square, Staple Hill",
+    "name": "Roger",
+    "no": "69",
+    "coords": [
+      51.455090842,
+      -2.6257337630000004
+    ]
+  },
+  {
+    "artist": "Amy Timms",
+    "location": "Cribbs Causeway Retail Park",
+    "name": "The Wild West",
+    "no": "70"
+  },
+  {
+    "artist": "Zayn Malik",
+    "location": "The Mall at Cribbs Causeway",
+    "name": "The Green Gromit",
+    "no": "71"
+  },
+  {
+    "artist": "Cath Kidston",
+    "location": "The Mall at Cribbs Causeway",
+    "name": "Antique Rose",
+    "no": "72"
+  },
+  {
+    "artist": "Peter Brookes",
+    "location": "Woodlands Lane, Bradley Stoke",
+    "name": "Two Eds are Better than One",
+    "no": "73"
+  },
+  {
+    "artist": "Marie Simpson",
+    "location": "The Beaufort Arms, Hawkesbury Upton",
+    "name": "Harmony",
+    "no": "74",
+    "coords": [
+      51.47293659,
+      -2.6212692260000003
+    ]
+  },
+  {
+    "artist": "Seb Burnett",
+    "location": "Westonbirt Arboretum",
+    "name": "Eldoradog",
+    "no": "75"
+  },
+  {
+    "artist": "Diarmuid Gavin",
+    "location": "Tyntesfield",
+    "name": "Oops a Daisy",
+    "no": "76"
+  },
+  {
+    "artist": "Dan Shearn",
+    "location": "Bristol Airport",
+    "name": "Bristol Bulldog",
+    "no": "77"
+  },
+  {
+    "artist": "Sarah-Jane Grace",
+    "location": "Lye Cross Farm",
+    "name": "The Secret Garden",
+    "no": "78"
+  },
+  {
+    "artist": "Tom Berry",
+    "location": "Cheddar Gorge",
+    "name": "aMazing Gromit",
+    "no": "79"
+  },
+  {
+    "artist": "Aardman Animations",
+    "location": "Paddington station",
+    "name": "Gromit",
+    "no": "80",
+    "coords": [
+      51.457244405000004,
+      -2.590261633
+    ]
+  }
+]
