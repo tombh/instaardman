@@ -5,8 +5,8 @@
     "name": "Newshound",
     "no": "1",
     "coords": [
-      51.44247142599999,
-      -2.5744091069999997
+      51.456226,
+      -2.605219
     ]
   },
   {
@@ -15,8 +15,8 @@
     "name": "TutanGromit",
     "no": "2",
     "coords": [
-      51.45891674199999,
-      -2.608222340999999
+      51.45617,
+      -2.605168
     ]
   },
   {
@@ -25,15 +25,19 @@
     "name": "Bushed",
     "no": "3",
     "coords": [
-      51.45521539700001,
-      -2.6257315839999995
+      51.458127,
+      -2.608564
     ]
   },
   {
     "artist": "Laura Cramer",
     "location": "Elton Road",
     "name": "Vincent van Gromit",
-    "no": "4"
+    "no": "4",
+    "coords": [
+      51.458189,
+      -2.60703
+    ]
   },
   {
     "artist": "Julie Vernon",
@@ -41,8 +45,8 @@
     "name": "Golden Gromit",
     "no": "5",
     "coords": [
-      51.45800000000001,
-      -2.609333333000001
+      51.458015,
+      -2.609446
     ]
   },
   {
@@ -55,7 +59,11 @@
     "artist": "Joanna Lumley",
     "location": "College Green",
     "name": "Poetry in Motion",
-    "no": "7"
+    "no": "7",
+    "coords": [
+      51.452984,
+      -2.601025
+    ]
   },
   {
     "artist": "Martin Handford",
@@ -63,8 +71,8 @@
     "name": "Where’s Wallace?",
     "no": "8",
     "coords": [
-      51.472409237,
-      -2.615604568
+      51.451954,
+      -2.599217
     ]
   },
   {
@@ -79,8 +87,8 @@
     "name": "Steam Dog",
     "no": "10",
     "coords": [
-      51.455206260999994,
-      -2.6257776000000006
+      51.450552,
+      -2.600005
     ]
   },
   {
@@ -89,27 +97,39 @@
     "name": "Astro Dog",
     "no": "11",
     "coords": [
-      51.455181013000015,
-      -2.6257296050000005
+      51.450107,
+      -2.600019
     ]
   },
   {
     "artist": "Jeremy Wade",
     "location": "Bristol Aquarium",
     "name": "Fish Tales",
-    "no": "12"
+    "no": "12",
+    "coords": [
+      51.450592,
+      -2.599241
+    ]
   },
   {
     "artist": "Harry Hill",
     "location": "Tourist Information Centre",
     "name": "A Close Shave",
-    "no": "13"
+    "no": "13",
+    "coords": [
+      51.451908,
+      -2.598026
+    ]
   },
   {
     "artist": "Peter Lord",
     "location": "Cascade Steps",
     "name": "Salty Sea Dog",
-    "no": "14"
+    "no": "14",
+    "coords": [
+      51.452489,
+      -2.597608
+    ]
   },
   {
     "artist": "Tom Deams",
@@ -117,15 +137,19 @@
     "name": "Hero",
     "no": "15",
     "coords": [
-      51.452962354,
-      -2.624377005
+      51.452767,
+      -2.596953
     ]
   },
   {
     "artist": "Leigh Flurry",
     "location": "Queen Square",
     "name": "Bark at Ee",
-    "no": "16"
+    "no": "16",
+    "coords": [
+      51.450547,
+      -2.594732
+    ]
   },
   {
     "artist": "Chris Taylor",
@@ -133,8 +157,8 @@
     "name": "Groscar",
     "no": "17",
     "coords": [
-      51.45276365,
-      -2.6244557019999997
+      51.45153,
+      -2.596009
     ]
   },
   {
@@ -143,8 +167,8 @@
     "name": "Butterfly",
     "no": "18",
     "coords": [
-      51.452836612999995,
-      -2.624525679
+      51.452025,
+      -2.59418
     ]
   },
   {
@@ -153,21 +177,29 @@
     "name": "The King",
     "no": "19",
     "coords": [
-      51.452887532999995,
-      -2.624444375
+      51.452075,
+      -2.592737
     ]
   },
   {
     "artist": "Giuliano Carapia",
     "location": "Spyglass",
     "name": "Carosello",
-    "no": "20"
+    "no": "20",
+    "coords": [
+      51.452162,
+      -2.592533
+    ]
   },
   {
     "artist": "Trevor Baylis",
     "location": "Redcliff Street",
     "name": "What a Wind Up!",
-    "no": "21"
+    "no": "21",
+    "coords": [
+      51.452185,
+      -2.591492
+    ]
   },
   {
     "artist": "Martin Band",
@@ -175,8 +207,8 @@
     "name": "Jack",
     "no": "22",
     "coords": [
-      51.458494555,
-      -2.585428477
+      51.450694,
+      -2.60137
     ]
   },
   {
@@ -191,8 +223,7 @@
     "name": "Gizmo",
     "no": "24",
     "coords": [
-      51.484649809000004,
-      -2.4936992799999995
+      
     ]
   },
   {
@@ -207,15 +238,19 @@
     "name": "Nezahualcoyotl",
     "no": "26",
     "coords": [
-      51.454108,
-      -2.5953250000000008
+      51.454121,
+      -2.595253
     ]
   },
   {
     "artist": "Mark Titchner",
     "location": "St Nicholas Market",
     "name": "Why Dog? Why?",
-    "no": "27"
+    "no": "27",
+    "coords": [
+      51.454538,
+      -2.593649
+    ]
   },
   {
     "artist": "Hannah Cumming",
@@ -223,8 +258,7 @@
     "name": "Collarfull",
     "no": "28",
     "coords": [
-      51.489268300000006,
-      -2.504362
+      
     ]
   },
   {
@@ -233,8 +267,7 @@
     "name": "Gromitasaurus",
     "no": "29",
     "coords": [
-      51.45669444,
-      -2.590026855
+      
     ]
   },
   {
@@ -243,8 +276,7 @@
     "name": "Malago",
     "no": "30",
     "coords": [
-      51.45616666699999,
-      -2.6053333329999995
+      
     ]
   },
   {
@@ -253,8 +285,7 @@
     "name": "Lancelot",
     "no": "31",
     "coords": [
-      51.45726267900001,
-      -2.5875592230000004
+      
     ]
   },
   {
@@ -263,8 +294,7 @@
     "name": "Grosmos",
     "no": "32",
     "coords": [
-      51.457169087,
-      -2.586336136000001
+      
     ]
   },
   {
@@ -273,8 +303,7 @@
     "name": "Gromit Lightyear",
     "no": "33",
     "coords": [
-      51.458833333,
-      -2.5853333329999995
+      
     ]
   },
   {
@@ -283,8 +312,7 @@
     "name": "Doodles",
     "no": "34",
     "coords": [
-      51.45666666700001,
-      -2.604999999999999
+      
     ]
   },
   {
@@ -315,7 +343,11 @@
     "artist": "Gavin Strange",
     "location": "Aardman Animations, Gas Ferry Road",
     "name": "Stat’s the way to do it, Lad!",
-    "no": "39"
+    "no": "39",
+    "coords": [
+      51.447445,
+      -2.607929
+    ]
   },
   {
     "artist": "Carys Ink",
@@ -323,8 +355,7 @@
     "name": "Blazing Saddles",
     "no": "40",
     "coords": [
-      51.4529466,
-      -2.5886992000000006
+      
     ]
   },
   {
@@ -333,8 +364,7 @@
     "name": "Bunty",
     "no": "41",
     "coords": [
-      51.455103335000004,
-      -2.5919151309999995
+      
     ]
   },
   {
@@ -359,7 +389,11 @@
     "artist": "Thomas Dowdeswell",
     "location": "ss Great Britain",
     "name": "Being Gromit Malkovich",
-    "no": "45"
+    "no": "45",
+    "coords": [
+      51.449017,
+      -2.607283
+    ]
   },
   {
     "artist": "Simon Tozer",
@@ -367,8 +401,8 @@
     "name": "Gromberry",
     "no": "46",
     "coords": [
-      53.196666717,
-      -2.8861665720000005
+      51.44827,
+      -2.618062
     ]
   },
   {
@@ -377,15 +411,19 @@
     "name": "Patch",
     "no": "47",
     "coords": [
-      51.46208046900001,
-      -2.508348059
+      51.453333,
+      -2.615903
     ]
   },
   {
     "artist": "Richard ‘Golly’ Starzak",
     "location": "The Mall Gardens",
     "name": "Sheepdog",
-    "no": "48"
+    "no": "48",
+    "coords": [
+      51.455123,
+      -2.621136
+    ]
   },
   {
     "artist": "Ros Franklin",
@@ -393,8 +431,8 @@
     "name": "Dog Rose",
     "no": "49",
     "coords": [
-      51.465166667000005,
-      -2.6103333329999994
+      51.465316,
+      -2.610211
     ]
   },
   {
@@ -403,27 +441,39 @@
     "name": "Sugar Plum",
     "no": "50",
     "coords": [
-      51.46033333300001,
-      -2.6223333330000003
+      51.460263,
+      -2.6222
     ]
   },
   {
     "artist": "Vivi Cuevas",
     "location": "Bristol Zoo",
     "name": "A Mandrill’s Best Friend",
-    "no": "51"
+    "no": "51",
+    "coords": [
+      51.463576,
+      -2.624226
+    ]
   },
   {
     "artist": "Donough O’Malley",
     "location": "Brunel Mile (off Anchor Road)",
     "name": "Gromit-o-Matic",
-    "no": "52"
+    "no": "52",
+    "coords": [
+      51.449746,
+      -2.603843
+    ]
   },
   {
     "artist": "Sarah Matthews",
     "location": "Sion Hill, Clifton",
     "name": "Ship Shape & Bristol Fashion",
-    "no": "53"
+    "no": "53",
+    "coords": [
+      51.454341,
+      -2.625669
+    ]
   },
   {
     "artist": "Lindsay McBirnie",
@@ -431,21 +481,29 @@
     "name": "Fiesta",
     "no": "54",
     "coords": [
-      45.341350687,
-      -75.787407238
+      51.45276,
+      -2.625503
     ]
   },
   {
     "artist": "Rosie Ashforth",
     "location": "Ashton Court",
     "name": "Grant’s Gromit",
-    "no": "55"
+    "no": "55",
+    "coords": [
+      51.44414,
+      -2.637549
+    ]
   },
   {
     "artist": "off Coronation Road",
     "location": "Riverside Garden Centre, Clift House Road (off Coronation Road)",
     "name": "Creature Comforts",
-    "no": "56"
+    "no": "56",
+    "coords": [
+      51.444927,
+      -2.620863
+    ]
   },
   {
     "artist": "Nia Samuel-Johnson",
@@ -453,8 +511,8 @@
     "name": "Paisley",
     "no": "57",
     "coords": [
-      51.45866666700001,
-      -2.585166667
+      51.44268,
+      -2.615068
     ]
   },
   {
@@ -475,8 +533,7 @@
     "name": "Lodekka",
     "no": "60",
     "coords": [
-      51.461996357,
-      -2.579910317
+      
     ]
   },
   {
@@ -491,8 +548,8 @@
     "name": "Feathers",
     "no": "62",
     "coords": [
-      51.46744918,
-      -2.59143971
+      51.475259,
+      -2.591234
     ]
   },
   {
@@ -501,8 +558,8 @@
     "name": "Poochadelic",
     "no": "63",
     "coords": [
-      51.477333333000004,
-      -2.585833333
+      51.477237,
+      -2.585902
     ]
   },
   {
@@ -511,8 +568,8 @@
     "name": "Blossom",
     "no": "64",
     "coords": [
-      51.47229299999999,
-      -2.619356
+      51.472402,
+      -2.61935
     ]
   },
   {
@@ -521,8 +578,7 @@
     "name": "Zodiac",
     "no": "65",
     "coords": [
-      51.455203620999995,
-      -2.625654805
+      
     ]
   },
   {
@@ -531,21 +587,28 @@
     "name": "Hound Dog",
     "no": "66",
     "coords": [
-      51.455222648,
-      -2.625782043
+      
     ]
   },
   {
     "artist": "Filthy Luker",
     "location": "The Downs",
     "name": "It’s Kraken, Gromit!",
-    "no": "67"
+    "no": "67",
+    "coords": [
+      51.474921,
+      -2.615585
+    ]
   },
   {
     "artist": "Laura Cramer",
     "location": "Henleaze Road ",
     "name": "Five a Day Dog",
-    "no": "68"
+    "no": "68",
+    "coords": [
+      51.485033,
+      -2.612005
+    ]
   },
   {
     "artist": "Richard Williams",
@@ -553,33 +616,49 @@
     "name": "Roger",
     "no": "69",
     "coords": [
-      51.455090842,
-      -2.6257337630000004
+      51.481393,
+      -2.5045
     ]
   },
   {
     "artist": "Amy Timms",
     "location": "Cribbs Causeway Retail Park",
     "name": "The Wild West",
-    "no": "70"
+    "no": "70",
+    "coords": [
+      51.525794,
+      -2.601253
+    ]
   },
   {
     "artist": "Zayn Malik",
     "location": "The Mall at Cribbs Causeway",
     "name": "The Green Gromit",
-    "no": "71"
+    "no": "71",
+    "coords": [
+      51.525003,
+      -2.595038
+    ]
   },
   {
     "artist": "Cath Kidston",
     "location": "The Mall at Cribbs Causeway",
     "name": "Antique Rose",
-    "no": "72"
+    "no": "72",
+    "coords": [
+      51.524849,
+      -2.59632
+    ]
   },
   {
     "artist": "Peter Brookes",
     "location": "Woodlands Lane, Bradley Stoke",
     "name": "Two Eds are Better than One",
-    "no": "73"
+    "no": "73",
+    "coords": [
+      51.544108,
+      -2.563331
+    ]
   },
   {
     "artist": "Marie Simpson",
@@ -587,39 +666,59 @@
     "name": "Harmony",
     "no": "74",
     "coords": [
-      51.47293659,
-      -2.6212692260000003
+      51.581167,
+      -2.322155
     ]
   },
   {
     "artist": "Seb Burnett",
     "location": "Westonbirt Arboretum",
     "name": "Eldoradog",
-    "no": "75"
+    "no": "75",
+    "coords": [
+      51.606444,
+      -2.214702
+    ]
   },
   {
     "artist": "Diarmuid Gavin",
     "location": "Tyntesfield",
     "name": "Oops a Daisy",
-    "no": "76"
+    "no": "76",
+    "coords": [
+      51.442309,
+      -2.718463
+    ]
   },
   {
     "artist": "Dan Shearn",
     "location": "Bristol Airport",
     "name": "Bristol Bulldog",
-    "no": "77"
+    "no": "77",
+    "coords": [
+      51.38655,
+      -2.710802
+    ]
   },
   {
     "artist": "Sarah-Jane Grace",
     "location": "Lye Cross Farm",
     "name": "The Secret Garden",
-    "no": "78"
+    "no": "78",
+    "coords": [
+      51.357224,
+      -2.734314
+    ]
   },
   {
     "artist": "Tom Berry",
     "location": "Cheddar Gorge",
     "name": "aMazing Gromit",
-    "no": "79"
+    "no": "79",
+    "coords": [
+      51.282142,
+      -2.7659
+    ]
   },
   {
     "artist": "Aardman Animations",
@@ -627,8 +726,8 @@
     "name": "Gromit",
     "no": "80",
     "coords": [
-      51.457244405000004,
-      -2.590261633
+      51.518195,
+      -0.178239
     ]
   }
 ]
