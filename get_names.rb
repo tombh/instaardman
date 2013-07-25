@@ -1,4 +1,6 @@
-# Doesn't quite work, need to hand edit the names of two of them.
+# Luckily bristol-culture.com have gone out and photographed every gromit
+# and put a picture of each with name/artist/location underneath.
+# Doesn't quite work though, need to hand edit the names of two of them.
 
 require 'nokogiri'
 require 'open-uri'
