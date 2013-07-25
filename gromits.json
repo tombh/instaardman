@@ -53,7 +53,11 @@
     "artist": "Ian Marlow",
     "location": "St George’s",
     "name": "Sir Gromit of Bristol",
-    "no": "6"
+    "no": "6",
+    "coords": [
+      51.454085,
+      -2.603567
+    ]
   },
   {
     "artist": "Joanna Lumley",
@@ -79,7 +83,11 @@
     "artist": "Axel Scheffler",
     "location": "Bristol Central Library",
     "name": "The Grommalo",
-    "no": "9"
+    "no": "9",
+    "coords": [
+      51.451615,
+      -2.602237
+    ]
   },
   {
     "artist": "Dan Shearn",
@@ -215,7 +223,11 @@
     "artist": "Sarah Jane Richards [with music by Jools Holland]",
     "location": "Colston Hall",
     "name": "Bumble Boogie",
-    "no": "23"
+    "no": "23",
+    "coords": [
+      51.454333,
+      -2.5982
+    ]
   },
   {
     "artist": "Quentin Blake",
@@ -223,14 +235,19 @@
     "name": "Gizmo",
     "no": "24",
     "coords": [
-      
+      51.457548,
+      -2.596695
     ]
   },
   {
     "artist": "Katy Christianson",
     "location": "Hotel Du Vin, Lewins Mead",
     "name": "Canis Major",
-    "no": "25"
+    "no": "25",
+    "coords": [
+      51.456676,
+      -2.596481
+    ]
   },
   {
     "artist": "Joseph Dunmore",
@@ -258,7 +275,8 @@
     "name": "Collarfull",
     "no": "28",
     "coords": [
-      
+      51.455249,
+      -2.589939
     ]
   },
   {
@@ -267,7 +285,8 @@
     "name": "Gromitasaurus",
     "no": "29",
     "coords": [
-      
+      51.456828,
+      -2.589813
     ]
   },
   {
@@ -276,7 +295,8 @@
     "name": "Malago",
     "no": "30",
     "coords": [
-      
+      51.457864,
+      -2.588933
     ]
   },
   {
@@ -285,7 +305,8 @@
     "name": "Lancelot",
     "no": "31",
     "coords": [
-      
+      51.457249,
+      -2.587142
     ]
   },
   {
@@ -294,7 +315,8 @@
     "name": "Grosmos",
     "no": "32",
     "coords": [
-      
+      51.457162,
+      -2.586058
     ]
   },
   {
@@ -303,7 +325,8 @@
     "name": "Gromit Lightyear",
     "no": "33",
     "coords": [
-      
+      51.458894,
+      -2.585479
     ]
   },
   {
@@ -312,32 +335,49 @@
     "name": "Doodles",
     "no": "34",
     "coords": [
-      
+      51.45866,
+      -2.584663
     ]
   },
   {
     "artist": "The Beano",
     "location": "Bristol Marriott Hotel City Centre",
     "name": "Gnashional Gromit",
-    "no": "35"
+    "no": "35",
+    "coords": [
+      51.455926,
+      -2.584797
+    ]
   },
   {
     "artist": "Andy O’Rourke",
     "location": "Creative Common",
     "name": "A Grand Day Out",
-    "no": "36"
+    "no": "36",
+    "coords": [
+      51.451037,
+      -2.581399
+    ]
   },
   {
     "artist": "Natalie Guy",
     "location": "Bristol Temple Meads",
     "name": "May Contain Nuts (& Bolts)",
-    "no": "37"
+    "no": "37",
+    "coords": [
+      51.449728,
+      -2.580699
+    ]
   },
   {
     "artist": "Tim Miness",
     "location": "Bristol Temple Meads",
     "name": "Isambark Kingdog Brunel",
-    "no": "38"
+    "no": "38",
+    "coords": [
+      51.449678,
+      -2.581337
+    ]
   },
   {
     "artist": "Gavin Strange",
@@ -355,7 +395,8 @@
     "name": "Blazing Saddles",
     "no": "40",
     "coords": [
-      
+      51.448768,
+      -2.58775
     ]
   },
   {
@@ -364,26 +405,39 @@
     "name": "Bunty",
     "no": "41",
     "coords": [
-      
+      51.448698,
+      -2.58966
     ]
   },
   {
     "artist": "Gerald Scarfe",
     "location": "M Shed",
     "name": "Watch Out Gromit!",
-    "no": "42"
+    "no": "42",
+    "coords": [
+      51.447776,
+      -2.598039
+    ]
   },
   {
     "artist": "The Royal Mint",
     "location": "M Shed",
     "name": "National Treasure",
-    "no": "43"
+    "no": "43",
+    "coords": [
+      51.447729,
+      -2.598122
+    ]
   },
   {
     "artist": "One Red Shoe",
     "location": "The Matthew",
     "name": "NewFoundLand",
-    "no": "44"
+    "no": "44",
+    "coords": [
+      51.447503,
+      -2.599324
+    ]
   },
   {
     "artist": "Thomas Dowdeswell",
@@ -519,13 +573,21 @@
     "artist": "Carys Ink",
     "location": "Windmill Hill City Farm",
     "name": "Grrrrromit",
-    "no": "58"
+    "no": "58",
+    "coords": [
+      51.442322,
+      -2.592383
+    ]
   },
   {
     "artist": "Monster Riot",
     "location": "Arnos Vale Cemetery",
     "name": "Hullaballoon",
-    "no": "59"
+    "no": "59",
+    "coords":[
+      51.441597,
+      -2.566279
+    ]
   },
   {
     "artist": "Ignition DG",
@@ -533,14 +595,19 @@
     "name": "Lodekka",
     "no": "60",
     "coords": [
-      
+      51.458429,
+      -2.568237
     ]
   },
   {
     "artist": "Raymond Briggs",
     "location": "J3 Library",
-    "name": "Snow Gromit",
-    "no": "61"
+    "name": "The Snow Gromit",
+    "no": "61",
+    "coords": [
+      51.465846,
+      -2.572754
+    ]
   },
   {
     "artist": "Dave Bain",
@@ -578,7 +645,8 @@
     "name": "Zodiac",
     "no": "65",
     "coords": [
-      
+      51.449066,
+      -2.597634
     ]
   },
   {
@@ -587,7 +655,8 @@
     "name": "Hound Dog",
     "no": "66",
     "coords": [
-      
+      51.449345,
+      -2.59746
     ]
   },
   {
