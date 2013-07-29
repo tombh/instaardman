@@ -1,3 +1,74 @@
-html { height: 100% }
-body { height: 100%; margin: 0; padding: 0 }
-#map { height: 100% }
+html { height: 100%; }
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #F4F3F0;
+}
+
+.content {
+  font-family: Helvetica;
+  color: #544c43;
+  margin: 10px;
+  float: left;
+  width: 280px;
+}
+
+.content a {
+  color: #FF7C71;
+  text-decoration: none;
+}
+.content a:hover {
+  color: #e53c30;
+  text-decoration: none;
+}
+
+#map {
+  height: 100%;
+  border-left: 1px solid #DDE6D5;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #7687DE;
+  font-family: 'Love Ya Like A Sister', cursive;
+  text-align: center;
+}
+
+h2 {
+  color: #7687DE;
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size: 2em;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+
+img {
+  margin-right: 4px;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+.hero {
+  text-align: center;
+  font-weight: bolder;
+}
+
+.hero em {
+  display: block;
+  margin-top: -36px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-weight: normal;
+  font-size: 0.8em;
+}
+
+.unsnapped li {
+  font-size: 0.8em;
+}

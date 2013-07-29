@@ -39,23 +39,22 @@ Instagram.configure do |config|
   config.client_secret = credentials["client_secret"]
 end
 
-gromits = JSON.load(open('gromits.json'))
+images = JSON.load(open('images.json'))
 
-images = []
-
-gromits.each do |gromit|
-  puts "Searching #{gromit['name']}"
-  lat = gromit['coords'][0]
-  lng = gromit['coords'][1]
+images.map! do |gromit|
+  coords = gromit[0]
+  lat = coords[0]
+  lng = coords[1]
   results = Instagram.media_search(lat, lng, :distance => 10)
   puts "#{results.count} found \n"
   i = []
   results.each do |media|
      i << media.images.standard_resolution.url
   end
-  images << [[lat, lng], i]
+  gromit[1] = (gromit[1] + i).uniq!
   open('images.json', 'w') do |f|
     f.puts JSON.pretty_generate(images)
   end
   sleep 0.5 # Crude rate limit protection
+  gromit
 end
