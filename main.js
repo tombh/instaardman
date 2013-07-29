@@ -27,11 +27,10 @@ $.ajax({
     for (i = 0; i < locations.length; i++) {
       marker = addMarker(new google.maps.LatLng(locations[i][0][0], locations[i][0][1]));
       markers.push(marker);
-      if(locations[i][1] === null){
+      if(locations[i][1].length === 0){
         $('.unsnapped ul').append('<li><a href="#" data-gromit="' + i + '">' + gromits[i]['name'] + '</a></li>');
         $('.unsnapped ul li a').bind('click', function(e){
           var id = $(this).attr('data-gromit');
-          console.log(id);
           google.maps.event.trigger(markers[id], 'click');
         });
       }
@@ -44,7 +43,11 @@ $.ajax({
           }
           var image_markup = '';
           for (var j = count - 1; j >= 0; j--) {
-            image_markup = image_markup + '<img width="150px" height="150px" src="' + locations[i][1][j] + '" />';
+            image_markup = image_markup +
+              '<a target="_blank" href="' + locations[i][1][j][0] + '">' +
+              '<img width="150px" height="150px" src="' +
+              locations[i][1][j][1] + '" />' +
+              '</a>';
           }
           infowindow.setContent(header + image_markup);
           infowindow.open(map, marker);

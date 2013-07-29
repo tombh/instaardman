@@ -47,10 +47,13 @@ h3 {
   font-family: 'Love Ya Like A Sister', cursive;
 }
 
-img {
+a img {
   margin-right: 4px;
-  border: 1px solid black;
+  border: 1px solid #FF7C71;
   border-radius: 2px;
+}
+a:hover img {
+  border-color: #e53c30;
 }
 
 .hero {

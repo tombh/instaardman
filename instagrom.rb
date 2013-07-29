@@ -49,9 +49,14 @@ images.map! do |gromit|
   puts "#{results.count} found \n"
   i = []
   results.each do |media|
-     i << media.images.standard_resolution.url
+    # Append if it isn't a duplicate
+    # if !gromit[1].map{|x| x[1]}.include? media.link
+     i << [media.link, media.images.standard_resolution.url]
+    # end
   end
-  gromit[1] = (gromit[1] + i).uniq!
+  gromit[1] = [] if gromit[1].nil?
+  # gromit[1] = (gromit[1] + i)
+  gromit[1] = i
   open('images.json', 'w') do |f|
     f.puts JSON.pretty_generate(images)
   end
