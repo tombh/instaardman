@@ -50,8 +50,8 @@ images.map! do |gromit|
   i = []
   results.each do |media|
     # Append if it isn't a duplicate
-    if !gromit[1].map{|x| x[1]}.include? media.link
-     i << [media.link, media.images.thumbnail]
+    if !gromit[1].map{|x| x[0]}.include? media.link
+     i << [media.link, media.images.thumbnail.url]
     end
   end
   gromit[1] = [] if gromit[1].nil?
