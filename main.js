@@ -16,6 +16,7 @@ var markers = [];
 var marker, i;
 var showcase;
 var gromits;
+var total = 0;
 
 $.ajax({
   url: "gromits.json"
@@ -27,6 +28,7 @@ $.ajax({
     for (i = 0; i < locations.length; i++) {
       marker = addMarker(new google.maps.LatLng(locations[i][0][0], locations[i][0][1]));
       markers.push(marker);
+      total = total + locations[i][1].length;
       if(locations[i][1].length === 0){
         $('.unsnapped ul').append('<li><a href="#" data-gromit="' + i + '">' + gromits[i]['name'] + '</a></li>');
         $('.unsnapped ul li a').bind('click', function(e){
@@ -54,6 +56,7 @@ $.ajax({
         };
       })(marker, i));
     }
+    $('.image_count').text(total);
     google.maps.event.trigger(markers[49], 'click');
   });
 });
