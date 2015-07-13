@@ -24,41 +24,44 @@ require 'geocoder'
 
 Geocoder.configure(units: :km)
 
-def distance a, b
+def distance(a, b)
   Geocoder::Calculations.distance_between(a, b)
 end
 
-def centre coords
+def centre(coords)
   Geocoder::Calculations.geographic_center(coords)
 end
 
 # To get your Instagram OAuth credentials, register an app at http://instagr.am/oauth/client/register/
 credentials = JSON.load(open('.credentials'))
 Instagram.configure do |config|
-  config.client_id = credentials["client_id"]
-  config.client_secret = credentials["client_secret"]
+  config.client_id = credentials['client_id']
+  config.client_secret = credentials['client_secret']
 end
 
-images = JSON.load(open('images.json'))
+images = JSON.load(open('images.json'))['images']
 
-images.map! do |gromit|
-  coords = gromit[0]
+images.map! do |sculpture|
+  coords = sculpture[0]
   lat = coords[0]
   lng = coords[1]
-  results = Instagram.media_search(lat, lng, :distance => 10)
+  results = Instagram.media_search(lat, lng, distance: 10)
   puts "#{results.count} found \n"
-  i = []
+  new_images = []
+  existing_images = sculpture[1] || []
   results.each do |media|
+    started = Date.parse('6th July 2015').to_time
+    created = Time.at media.created_time.to_i
+    next unless created > started
     # Append if it isn't a duplicate
-    if !gromit[1].map{|x| x[0]}.include? media.link
-     i << [media.link, media.images.thumbnail.url]
+    unless existing_images.map { |x| x[0] }.include? media.link
+      new_images << [media.link, media.images.thumbnail.url]
     end
   end
-  gromit[1] = [] if gromit[1].nil?
-  gromit[1] = (gromit[1] + i)
+  sculpture[1] = (existing_images + new_images)
   open('images.json', 'w') do |f|
-    f.puts JSON.pretty_generate(images)
+    f.puts JSON.pretty_generate(images: images)
   end
   sleep 0.5 # Crude rate limit protection
-  gromit
+  sculpture
 end
